@@ -244,13 +244,13 @@ python3 app.py
 #  SCREENSHOTS
 
 ## Login Screen
- <img width="800" height="500" alt="Screenshot 2026-06-09 222731" src="https://github.com/user-attachments/assets/21501c5b-fe64-4d2c-8292-c6a8b1ef7dc7" />
+ <img width="1000" height="700" alt="Screenshot 2026-06-09 222731" src="https://github.com/user-attachments/assets/21501c5b-fe64-4d2c-8292-c6a8b1ef7dc7" />
 
 
 ---
 
 ## Gameplay
-<img width="800" height="500" alt="Screenshot 2026-06-09 222755" src="https://github.com/user-attachments/assets/716030de-198e-48e8-88e5-9dbfb577b2e6" />
+<img width="1000" height="700" alt="Screenshot 2026-06-09 222755" src="https://github.com/user-attachments/assets/716030de-198e-48e8-88e5-9dbfb577b2e6" />
 
  
 
@@ -258,7 +258,7 @@ python3 app.py
 
 ## Game Over
 
-<img width="800" height="500" alt="Screenshot 2026-06-09 222805" src="https://github.com/user-attachments/assets/2e192e04-78fa-406f-987b-ee3f2d94e184" />
+<img width="1000" height="700" alt="Screenshot 2026-06-09 222805" src="https://github.com/user-attachments/assets/2e192e04-78fa-406f-987b-ee3f2d94e184" />
 
 
 ---
