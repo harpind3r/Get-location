@@ -1,4 +1,4 @@
-# 🎮 Bounce Arena – Browser Permission Security Demo
+#  Bounce Arena – Browser Permission Security Demo
 
 A cyberpunk-themed browser game built using Flask, JavaScript, HTML5 Canvas, Geolocation API, and Camera API.
 
@@ -6,7 +6,7 @@ This project demonstrates how browser permission systems work in modern web appl
 
 ---
 
-# ⚠ DISCLAIMER
+#  DISCLAIMER
 
 This project is created strictly for:
 
@@ -24,16 +24,14 @@ Do NOT use this project without user consent.
 
 # ✨ FEATURES
 
-- 🎮 Arcade Bounce Game
-- 🌌 Cyberpunk Neon UI
-- 📍 Real-time Geolocation API
-- 📷 Camera API Integration
-- ☁ Cloudflare Tunnel Support
-- 🧠 Flask Backend
-- 💾 Automatic Data Logging
-- 📸 Image Capture Support
-- 📱 Mobile Friendly Controls
-- ⚡ Real-time Score System
+-  Real-time Geolocation API
+-  Camera API Integration
+-  Cloudflare Tunnel Support
+-  Flask Backend
+-  Automatic Data Logging
+-  Image Capture Support
+-  Mobile Friendly Controls
+-  Real-time Score System
 
 ---
 
@@ -57,10 +55,6 @@ quizgame/
 │
 ├── app.py
 ├── captured_data/
-├── screenshots/
-│
-├── static/
-├── templates/
 │
 ├── requirements.txt
 └── README.md
@@ -186,8 +180,8 @@ Open that link in browser.
 
 1. User opens game link
 2. Browser requests:
-   - 📍 Location Permission
-   - 📷 Camera Permission
+   - Location Permission
+   - Camera Permission
 3. After permission approval:
    - Game starts
    - Score tracking begins
@@ -202,7 +196,7 @@ Open that link in browser.
 
 ---
 
-# 📍 VIEW PLAYER DATA
+#  VIEW PLAYER DATA
 
 Open:
 
@@ -212,7 +206,7 @@ http://localhost:5000/view_players
 
 ---
 
-# 📸 CAPTURED FILES
+#  CAPTURED FILES
 
 Saved inside:
 
@@ -222,7 +216,7 @@ captured_data/
 
 ---
 
-# 🧠 EDUCATIONAL CONCEPTS
+#  EDUCATIONAL CONCEPTS
 
 This project demonstrates:
 
@@ -237,7 +231,7 @@ This project demonstrates:
 
 ---
 
-# 🖥 COMMANDS SUMMARY
+#  COMMANDS SUMMARY
 
 ## Start Project
 
