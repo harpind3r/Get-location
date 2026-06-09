@@ -205,27 +205,7 @@ Open that link in browser.
    - Captured image
 
 ---
-
-#  VIEW PLAYER DATA
-
-Open:
-
-```bash
-http://localhost:5000/view_players
-```
-<img width="650" height="500" alt="Screenshot 2026-06-09 222731" src="https://github.com/user-attachments/assets/312cb531-7b90-4a3a-b006-7d1a0d0f4514" />
-
----
-
-#  CAPTURED FILES
-
-Saved inside:
-
-```bash
-captured_data/
-```
-
----
+ 
 
 #  EDUCATIONAL CONCEPTS
 
@@ -264,20 +244,22 @@ python3 app.py
 #  SCREENSHOTS
 
 ## Login Screen
+ <img width="800" height="500" alt="Screenshot 2026-06-09 222731" src="https://github.com/user-attachments/assets/21501c5b-fe64-4d2c-8292-c6a8b1ef7dc7" />
 
-![Login](screenshots/login.png)
 
 ---
 
 ## Gameplay
+<img width="800" height="500" alt="Screenshot 2026-06-09 222755" src="https://github.com/user-attachments/assets/716030de-198e-48e8-88e5-9dbfb577b2e6" />
 
-![Gameplay](screenshots/gameplay.png)
+ 
 
 ---
 
 ## Game Over
 
-![GameOver](screenshots/gameover.png)
+<img width="800" height="500" alt="Screenshot 2026-06-09 222805" src="https://github.com/user-attachments/assets/2e192e04-78fa-406f-987b-ee3f2d94e184" />
+
 
 ---
 
