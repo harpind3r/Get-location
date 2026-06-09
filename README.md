@@ -22,7 +22,7 @@ Do NOT use this project without user consent.
 
 ---
 
-# ✨ FEATURES
+#  FEATURES
 
 -  Real-time Geolocation API
 -  Camera API Integration
@@ -62,11 +62,11 @@ quizgame/
 
 ---
 
-# 📦 REQUIREMENTS
+#  REQUIREMENTS
 
 Install these before running the project:
 
-## ✅ Python Packages
+##  Python Packages
 
 ```bash
 pip install flask requests opencv-python
@@ -114,9 +114,9 @@ chmod +x cloudflared
 
 ---
 
-# 🚀 SETUP & RUN
+#  SETUP & RUN
 
-## 1️⃣ Clone Repository
+## 1️ Clone Repository
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/quizgame.git
@@ -124,7 +124,7 @@ git clone https://github.com/YOUR_USERNAME/quizgame.git
 
 ---
 
-## 2️⃣ Open Project Folder
+## 2️ Open Project Folder
 
 ```bash
 cd quizgame
@@ -132,7 +132,7 @@ cd quizgame
 
 ---
 
-## 3️⃣ Install Dependencies
+## 3️ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -156,7 +156,7 @@ Running on http://127.0.0.1:5000
 
 ---
 
-# 🌐 START CLOUDFLARE TUNNEL
+#  START CLOUDFLARE TUNNEL
 
 Open SECOND terminal.
 
@@ -176,7 +176,7 @@ Open that link in browser.
 
 ---
 
-# 🎮 HOW IT WORKS
+#  HOW IT WORKS
 
 1. User opens game link
 2. Browser requests:
@@ -250,7 +250,7 @@ python3 app.py
 
 ---
 
-# 📷 SCREENSHOTS
+#  SCREENSHOTS
 
 ## Login Screen
 
