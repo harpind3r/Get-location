@@ -155,7 +155,7 @@ You should see:
 ```bash
 Running on http://127.0.0.1:5000
 ```
-<img width="650" height="500" alt="Screenshot (344)" src="https://github.com/user-attachments/assets/9810a037-b29f-4d70-a7be-ec1ee50981e3" />
+
 
 ---
 
@@ -168,7 +168,8 @@ Run:
 ```bash
 ./cloudflared tunnel --url http://localhost:5000
 ```
-<img width="650" height="500" alt="Screenshot (345)" src="https://github.com/user-attachments/assets/a0532092-f07e-42b2-b219-1f284018a258" />
+<img width="700" height="500" alt="Screenshot (344)" src="https://github.com/user-attachments/assets/9810a037-b29f-4d70-a7be-ec1ee50981e3" />
+
 
 
 Example Output:
@@ -176,7 +177,8 @@ Example Output:
 ```bash
 https://random-name.trycloudflare.com
 ```
-<img width="650" height="500" alt="Screenshot (346)" src="https://github.com/user-attachments/assets/0f8ba0a7-de6f-432a-9313-a21ef5385293" />
+<img width="700" height="500" alt="Screenshot (345)" src="https://github.com/user-attachments/assets/a0532092-f07e-42b2-b219-1f284018a258" />
+
 
 
 Open that link in browser.
