@@ -35,7 +35,7 @@ Do NOT use this project without user consent.
 
 ---
 
-# 🛠 TECHNOLOGIES USED
+# TECHNOLOGIES USED
 
 - Python3
 - Flask
@@ -48,7 +48,7 @@ Do NOT use this project without user consent.
 
 ---
 
-# 📂 PROJECT STRUCTURE
+# PROJECT STRUCTURE
 
 ```bash
 quizgame/
@@ -90,7 +90,7 @@ pip install -r requirements.txt
 
 ---
 
-# ☁ CLOUDFLARED INSTALLATION
+#  CLOUDFLARED INSTALLATION
 
 Download Cloudflared:
 
@@ -140,7 +140,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶ START FLASK SERVER
+#  START FLASK SERVER
 
 Run:
 
@@ -270,13 +270,13 @@ python3 app.py
 
 ---
 
-# 📜 LICENSE
+#  LICENSE
 
 MIT License
 
 ---
 
-# 👨‍💻 AUTHOR
+# AUTHOR
 
 Created by Harpind3r
 
@@ -284,7 +284,7 @@ Cybersecurity | Browser API Research | Flask Development
 
 ---
 
-# ⭐ GITHUB DESCRIPTION
+# GITHUB DESCRIPTION
 
 ```txt
 Cyberpunk browser game demonstrating Geolocation API, Camera API, Flask backend logging, and Cloudflare Tunnel integration.
