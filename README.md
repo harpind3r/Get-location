@@ -119,7 +119,7 @@ chmod +x cloudflared
 ## 1️ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/quizgame.git
+git clone https://github.com/harpind3r/Get-location.git
 ```
 
 ---
