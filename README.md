@@ -130,6 +130,8 @@ git clone https://github.com/harpind3r/Get-location.git
 cd quizgame
 ```
 
+
+
 ---
 
 ## 3️ Install Dependencies
@@ -153,6 +155,7 @@ You should see:
 ```bash
 Running on http://127.0.0.1:5000
 ```
+<img width="650" height="500" alt="Screenshot (344)" src="https://github.com/user-attachments/assets/9810a037-b29f-4d70-a7be-ec1ee50981e3" />
 
 ---
 
@@ -165,12 +168,16 @@ Run:
 ```bash
 ./cloudflared tunnel --url http://localhost:5000
 ```
+<img width="650" height="500" alt="Screenshot (345)" src="https://github.com/user-attachments/assets/a0532092-f07e-42b2-b219-1f284018a258" />
+
 
 Example Output:
 
 ```bash
 https://random-name.trycloudflare.com
 ```
+<img width="650" height="500" alt="Screenshot (346)" src="https://github.com/user-attachments/assets/0f8ba0a7-de6f-432a-9313-a21ef5385293" />
+
 
 Open that link in browser.
 
@@ -203,6 +210,7 @@ Open:
 ```bash
 http://localhost:5000/view_players
 ```
+<img width="650" height="500" alt="Screenshot 2026-06-09 222731" src="https://github.com/user-attachments/assets/312cb531-7b90-4a3a-b006-7d1a0d0f4514" />
 
 ---
 
